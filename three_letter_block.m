@@ -1,7 +1,7 @@
 letters = cell(1,3);
-letters{1} = 'R';
-letters{2} = 'A';
-letters{3} = 'K';
+letters{1} = 'G';
+letters{2} = 'E';
+letters{3} = 'B';
 
 
 %for each deposition layer
