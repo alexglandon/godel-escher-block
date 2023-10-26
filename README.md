@@ -14,7 +14,7 @@ meshlab (https://www.meshlab.net/#download)
 
 2) run three_letter_block.m in matlab
 
-3) uncomment line 81-82 to preview the 3D block: "scatter3(cloud(:,1),cloud(:,2),cloud(:,3)); axis style equal"
+3) uncomment line 81-82 to preview the 3D block: "figure(2); scatter3(cloud(:,1),cloud(:,2),cloud(:,3)); axis('equal')"
 
 4) the matlab should now have generated "block.ply"
 
