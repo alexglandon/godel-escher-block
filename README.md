@@ -4,10 +4,9 @@ for printing 3D blocks with arbitrary letters in the style of the Godel Escher B
 
 # requirements
 
-matlab (tested)
+matlab (tested) or octave with 'image' package (not tested)
 
-octave with 'image' package (not tested)
-
+meshlab (https://www.meshlab.net/#download)
 
 # workflow
 
